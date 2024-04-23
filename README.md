@@ -1,2 +1,2 @@
-# Cheeses
-Some markdowns of my courses in Fudan.
+# Discription
+This repo documents some markdowns of my courses in Artificial Intelligence in Fudan University.
